@@ -1,0 +1,6 @@
+C:\Users\zh1500\documents\visual studio 2017\Projects\crash course 1\crash course 1\bin\Debug\crash course 1.exe.config
+C:\Users\zh1500\documents\visual studio 2017\Projects\crash course 1\crash course 1\bin\Debug\crash course 1.exe
+C:\Users\zh1500\documents\visual studio 2017\Projects\crash course 1\crash course 1\bin\Debug\crash course 1.pdb
+C:\Users\zh1500\documents\visual studio 2017\Projects\crash course 1\crash course 1\obj\Debug\crash course 1.csprojResolveAssemblyReference.cache
+C:\Users\zh1500\documents\visual studio 2017\Projects\crash course 1\crash course 1\obj\Debug\crash course 1.exe
+C:\Users\zh1500\documents\visual studio 2017\Projects\crash course 1\crash course 1\obj\Debug\crash course 1.pdb

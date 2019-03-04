@@ -1,0 +1,7 @@
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csprojAssemblyReference.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb

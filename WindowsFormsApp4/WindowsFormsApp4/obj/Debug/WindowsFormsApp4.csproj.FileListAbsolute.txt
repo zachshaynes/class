@@ -1,0 +1,5 @@
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache

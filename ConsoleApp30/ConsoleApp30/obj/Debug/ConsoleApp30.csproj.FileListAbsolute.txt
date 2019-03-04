@@ -1,0 +1,7 @@
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csprojAssemblyReference.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb

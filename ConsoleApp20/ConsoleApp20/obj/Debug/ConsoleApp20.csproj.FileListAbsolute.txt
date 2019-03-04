@@ -1,0 +1,7 @@
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csprojAssemblyReference.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb

@@ -1,0 +1,7 @@
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe.config
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.pdb
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csprojAssemblyReference.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.pdb

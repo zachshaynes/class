@@ -1,0 +1,7 @@
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.exe.config
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.pdb
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.csprojAssemblyReference.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.csproj.CoreCompileInputs.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.pdb

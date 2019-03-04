@@ -1,0 +1,7 @@
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\Try Catch\Try Catch\bin\Debug\Try Catch.exe.config
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\Try Catch\Try Catch\bin\Debug\Try Catch.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\Try Catch\Try Catch\bin\Debug\Try Catch.pdb
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\Try Catch\Try Catch\obj\Debug\Try Catch.csprojAssemblyReference.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\Try Catch\Try Catch\obj\Debug\Try Catch.csproj.CoreCompileInputs.cache
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\Try Catch\Try Catch\obj\Debug\Try Catch.exe
+C:\Users\zh1500\Documents\Visual Studio 2017\Projects\Try Catch\Try Catch\obj\Debug\Try Catch.pdb
